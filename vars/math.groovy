@@ -1,6 +1,6 @@
 def sum(a,b)
 {
-  echo "The total of ${a} and ${b} is ${a+b}
+  echo "The total of ${a} and ${b} is ${a+b}"
 }
 def mul(a,b)
 {
