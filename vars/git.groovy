@@ -1,4 +1,4 @@
-def git(repourl)
+def newgit(repo)
 {
-  git "${repourl}"
+  git "${repo}"
 }
